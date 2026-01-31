@@ -1,100 +1,96 @@
-<!-- Encabezado principal -->
+<!-- BANNER ANIMADO -->
 <div align="center">
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AidachiBoss%20👨‍💻&fontSize=60&fontAlignY=35&animation=fadeIn)
-
-  <!-- Badges dinámicos -->
-  ![](https://komarev.com/ghpvc/?username=AidachiBoss&color=blueviolet&style=flat-square)
-  ![](https://img.shields.io/github/followers/AidachiBoss?style=social)
-  ![](https://img.shields.io/github/stars/AidachiBoss?style=social)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=🎮+AidachiBoss+%7C+Full+Stack+Developer+🚀;💻+Crafting+Digital+Experiences+with+Passion+✨;🔥+Turning+Ideas+into+Reality+⚡;🏆+Code+%7C+Create+%7C+Conquer+👑" alt="Typing SVG" />
 </div>
 
----
-
-## 🚀 **Sobre Mí**
-
-¡Hola! Soy **AidachiBoss** 👋  
-Un apasionado desarrollador 💻 que disfruta crear soluciones innovadoras y aprender tecnologías emergentes.
-
-- 🔭 Actualmente trabajando en: **Proyectos personales y de código abierto**
-- 🌱 Aprendiendo: **Nuevas tecnologías y mejores prácticas**
-- 👯 Colaborando en: **Proyectos interesantes de la comunidad**
-- 💬 Pregúntame sobre: **Desarrollo web, automatización y más**
-- 📫 Cómo contactarme: **Añade tu email o redes sociales aquí**
-- ⚡ Dato curioso: **Me encanta el café ☕ y la música mientras programo 🎵**
-
----
-
-## 🛠️ **Stack Tecnológico**
-
-### **Lenguajes de Programación**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend y Bases de Datos**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Herramientas y Plataformas**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 **Estadísticas de GitHub**
-
+<!-- PERFIL CON FOTO Y BADGES -->
 <div align="center">
+  <img src="https://github.com/AidachiBoss.png" alt="AidachiBoss" width="200" height="200" style="border-radius: 50%; border: 5px solid #FFD700; box-shadow: 0 0 20px rgba(255, 215, 0, 0.5);" />
   
-  ![Estadísticas de AidachiBoss](https://github-readme-stats.vercel.app/api?username=AidachiBoss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+  <br>
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AidachiBoss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+  <!-- BADGES DINÁMICOS -->
+  <img src="https://img.shields.io/badge/👑-Elite%20Developer-FFD700?style=for-the-badge&logo=starship&logoColor=black" />
+  <img src="https://img.shields.io/badge/⚡-Code%20Master-purple?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀-Fast%20Learner-orange?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/💎-Premium%20Coder-00D4FF?style=for-the-badge&logo=diamond&logoColor=white" />
   
-  ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=AidachiBoss&theme=radical&hide_border=true&background=0d1117)
+  <br>
+  
+  <!-- CONTADORES -->
+  <img src="https://komarev.com/ghpvc/?username=AidachiBoss&label=👁️+Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AidachiBoss?label=👥+Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AidachiBoss?label=⭐+Stars&color=yellow&style=flat" alt="Stars" />
   
 </div>
 
 ---
 
-## 🏆 **Logros y Trofeos**
+## 🏅 **GALERÍA DE TROFEOS Y LOGROS**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AidachiBoss&theme=onedark&no-frame=true&row=2&column=4)
+<div align="center">
+  
+  <!-- TROFEOS ANIMADOS -->
+  <h3>🏆 <b>Trophy Collection</b> 🏆</h3>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=AidachiBoss&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=7" alt="Trophy" width="100%" />
+  
+  <br>
+  
+  <!-- LOGROS ESPECIALES -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👑-GitHub%20Pro-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+        <br>
+        <sub><b>Premium Account</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏅-100%25%20Commits-00BFFF?style=for-the-badge&logo=git&logoColor=white" />
+        <br>
+        <sub><b>Commit Streak</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀-Fast%20Mover-FF6B6B?style=for-the-badge&logo=speedtest&logoColor=white" />
+        <br>
+        <sub><b>Rapid Developer</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💡-Innovator-9C27B0?style=for-the-badge&logo=bulb&logoColor=white" />
+        <br>
+        <sub><b>Creative Mind</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🚀 **SOBRE MÍ - ELITE DEVELOPER**
 
-### 🚀 [Nombre del Proyecto 1](https://github.com/AidachiBoss/nombre-proyecto)
-**Descripción breve:** Una herramienta increíble para [propósito]
-![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
-![Stars](https://img.shields.io/github/stars/AidachiBoss/nombre-proyecto?style=flat-square)
-
-### 🔥 [Nombre del Proyecto 2](https://github.com/AidachiBoss/nombre-proyecto2)
-**Descripción breve:** Solución innovadora para [problema]
-![Estado](https://img.shields.io/badge/Version-1.0.0-blue)
-![Issues](https://img.shields.io/github/issues/AidachiBoss/nombre-proyecto2?style=flat-square)
-
----
-
-## 📈 **Gráfico de Actividad**
-
-```mermaid
-graph TD;
-    A[Ideación] --> B[Planificación];
-    B --> C[Desarrollo];
-    C --> D[Pruebas];
-    D --> E[Despliegue];
-    E --> F[Mantenimiento];
-    F --> A;
+```javascript
+const AidachiBoss = {
+  pronouns: "He" | "Him",
+  role: "Full Stack Developer",
+  level: "Elite",
+  code: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
+  askMeAbout: ["web dev", "tech", "automation", "ai", "gaming"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue", "Angular"],
+      css: ["Tailwind", "SASS", "Styled Components"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express", "NestJS"],
+      python: ["Django", "FastAPI", "Flask"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
+    mobile: ["React Native", "Flutter"],
+    tools: ["Git", "VS Code", "Figma", "Postman"]
+  },
+  architecture: ["Microservices", "Serverless", "SPA", "PWA"],
+  currentFocus: "Building Next-Gen Applications",
+  funFact: "I can solve a Rubik's cube while debugging code!"
+};
