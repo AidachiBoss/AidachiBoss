@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AidachiBoss/AidachiBoss/main/avatar.png" width="320"/>
+  <img src="https://i.ibb.co/1fxK89sM/imagen.png" width="320"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AidachiBoss&label=VISITAS&color=00ff00&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NIVEL-PRO-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NIVEL-DIOS-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVA-00ff00?style=for-the-badge"/>
 </p>
 
 ---
@@ -19,9 +19,10 @@
 # 🧠 IDENTIDAD
 
 ```bash
-> nombre: Morgan
-> alias: Aidachi
-> rol: Full Stack Developer
+> nombre: Aidachi
+> alias: Moegan
+> rol: Desarrolladora Full Stack
 > especialidad: Web + Bots + Streaming
-> lenguaje principal: JavaScript
-> estado: Online ⚡
+> stack: JavaScript / Node.js / MongoDB
+> nivel: DIOS ⚡
+> estado: Online 🚀
