@@ -1,7 +1,7 @@
 <h1 align="center">⚡ AIDACHI DEV ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Bots+de+Telegram;E-commerce+%7C+Streaming;Automatización+Avanzada;Construyendo+Sistemas+Reales..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=900&lines=Desarrolladora+Full+Stack;Bots+de+Telegram+Avanzados;E-commerce+%7C+Streaming+Platforms;Automatización+de+Sistemas;Construyendo+Proyectos+Reales..." />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AidachiBoss&label=VISITAS&color=00ff00&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NIVEL-PRO-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVA-00ff00?style=for-the-badge"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ```bash
 > nombre: Morgan
 > alias: Aidachi
-> rol: Desarrolladora Full Stack
-> especialidad: Web / Bots / Streaming
-> stack: JavaScript / Node.js / MongoDB
-> estado: Activa ⚡
+> rol: Full Stack Developer
+> especialidad: Web + Bots + Streaming
+> lenguaje principal: JavaScript
+> estado: Online ⚡
